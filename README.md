@@ -71,7 +71,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * M60 (weapon_m60) # From the Sven Community
 * IMI Negev NG-7 (weapon_ng7) # From Morgan Dean
 * MG-36 (weapon_mg36) # From Morgan Dean
-* Charger-7 (weapon_charger7)
+* Charger-7 (weapon_charger7) # From Morgan Dean
 * HK-23 (weapon_hk23) # From the Sven Community
 * PKM (weapon_pkm) # From JackThunder67
 * K3 (weapon_k3) # From the Sven Community
