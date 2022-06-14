@@ -96,6 +96,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Alan A. Cook (The senior developer of JT67MOD)
 * Sean the Raiho (The senior developer of JT67MOD)
 * Taylor Martin Baker (The junior developer of JT67MOD)
+* Peter (The junior developer of JT67MOD)
 * Mark B. (The quality assurance of JT67MOD)
 
 ### You are not allowed to:
