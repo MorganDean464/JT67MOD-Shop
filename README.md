@@ -103,4 +103,3 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Ask for a download link;
 * Hound the developer for the download link;
 * Manipulate the developers to give you the download link;
-* Upload it somewhere that's not authorized by the developers.
