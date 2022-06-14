@@ -100,6 +100,6 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 ### You are not allowed to:
 
-* Ask for a download link;
-* Hound the developer for the download link;
-* Manipulate the developers to give you the download link;
+* Ask for a download link.
+* Hound the developer for the download link.
+* Manipulate the developers to give you the download link.
