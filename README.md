@@ -98,6 +98,8 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Taylor Martin Baker (The junior developer of JT67MOD)
 * Peter (The junior developer of JT67MOD)
 * Mark B. (The quality assurance of JT67MOD)
+* CSO weapons from Nexon
+* Half-Life 2 weapnos from Valve
 
 ### You are not allowed to:
 
