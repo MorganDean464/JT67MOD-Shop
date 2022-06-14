@@ -1,5 +1,5 @@
 # JT67MOD's Shop
-# PREVIEW IMAGE COMING SOON!
+# BANNER IS COMING SOON!
 > Custom weapons project for Sven Co-op
 This plugin is for Sven Experience server - and it is scripted from AngelScript, to request a new weapon, please DM me on Discord with this tag: Morgan Dean#6052.
 
