@@ -29,7 +29,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 * M-1887 (weapon_m1887) # From JackThunder67
 * Balista (weapon_spsg) # From JackThunder67
-* Quad-barreled shotgun (weapon_qbarrel) # From Morgan Dean - as Ner0 made it first, we created one ourselves!
+* Quad-barreled shotgun (weapon_qbarrel) # From Morgan Dean - as Ner0 made it first, I created one myself!
 * Lightning SG-1 (weapon_rainbowgun) # From Morgan Dean
 * Spas-12 (weapon_spas12) # From JackThunder67
 * Volcano (weapon_gatling) # From Morgan Dean
