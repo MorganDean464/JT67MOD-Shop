@@ -15,7 +15,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 #### Pistols
 
-* Half-Life 2 pistol (weapon_pistol) # From Anynomous
+* Half-Life 2 pistol (weapon_pistol) # From Anonymous
 * Dual Infinity (weapon_infinity) # From the Sven Community
 * King Cobra (weapon_kingcobra) # From JackThunder67
 * Mauser C96 (weapon_mauserc96) # From Morgan Dean
@@ -47,7 +47,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 #### Assault rifles
 
-* XM8 (weapon_xm8)
+* XM8 (weapon_xm8) # From Morgan Dean
 * Scoped M4A1 (weapon_m4a1scope) # From the Sven Community
 * TAR-21 (weapon_tar21) # From the Sven Community
 * BALROG-V (weapon_balrog5) # From Morgan Dean
@@ -78,7 +78,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Turbulent-7 (weapon_turbulent7) # From the Sven Community
 * MG3 (weapon_mg3) # From Morgan Dean
 
-### And finally, equipments!
+### And finally, equipment!
 
 * Pumpkin Grenade (weapon_pumpkin) # From Morgan Dean
 
@@ -99,7 +99,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Peter (The junior developer of JT67MOD)
 * Mark B. (The quality assurance of JT67MOD)
 * CSO weapons from Nexon
-* Half-Life 2 weapnos from Valve
+* Half-Life 2 weapons from Valve
 
 ### You are not allowed to:
 
