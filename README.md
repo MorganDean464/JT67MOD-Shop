@@ -3,7 +3,11 @@
 > Custom weapons project for Sven Co-op
 This plugin is for Sven Experience server - and it is scripted from AngelScript, to request a new weapon, please DM me on Discord with this tag: Morgan Dean#6052.
 
-# **Please note: Every weapons in this plugin will be Half-Life 2 and Counter Strike Online (Counter Strike Nexon Studios)**
+JackThunder67 (Also known as Nathan Downtown), I have agreed that we are starting over with something brand new! This project started in Late May of 2022 and the first part of it wasn't released! In the future, we'll make sure to discover more and more weapons and we'll give you some videos on how it'll work!
+
+Since RuneShop wasn't there anymore, this shop plugin is only for Sven Experience server, and nothing else!
+
+# **Please note: Some weapons in this plugin will be Half-Life 2 and most of it will be Counter Strike Online (Counter Strike Nexon Studios). This repository will change overtime!**
 
 ## Weapons
 
@@ -80,12 +84,11 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 ### And finally, equipment!
 
-* Pumpkin Grenade (weapon_pumpkin) # From Morgan Dean
+* Jack-o'-Lantern (weapon_pumpkin) # From Morgan Dean
 
 ### Notes
 
 * Some weapons has broken textures
-
 * We are planning on adding new weapons
 
 ## Credits
@@ -106,3 +109,71 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 * Ask for a download link.
 * Hound the developer for the download link.
 * Manipulate the developers to give you the download link.
+
+# UPDATES
+
+## June 15th 2022
+
+* Almost all of the weapon firing sounds (inc. Admin crowbar) has a different pitch when firing.
+* Added an secondary attack on the Quad-barreled shotgun (BETA)
+ * For some reason, it reloads when you have 2 shells
+ * When you used the secondary attack after firing one shell, it wastes 5 shells.
+ * Magazine counter disappears when you use the secondary attack if you have 3 shells left.
+* Fixed the deploy time on Daewoo K1A
+
+## June 10th 2022
+
+* Added Savery
+* Added PKM heavy machine gun
+* Added Pancor Jackhammer
+* Added M1918 BAR
+* Added PP-19 Bizon
+* Added IMI Negev NG-7
+* Added MG42
+* Added H&K SL8
+* Added Daewoo K1A
+
+## June 7th 2022
+
+* Added Balrog-5
+* Added FN FNC
+* Added Crossbow
+* Added Lightning SG-1
+* Added Spas-12
+* Added Thompson
+* Removed Half-Life 2 Shotgun
+
+## June 6th 2022
+
+* Added Dart pistol
+* Added Anaconda
+* Added Mauser C-96
+* Added King Cobra
+
+## June 6th 2022
+
+* Added Calico M950
+* Added Volcano
+* Added Balista
+
+## June 4th 2022
+
+* Added Quad barreled shotgun
+* Added MG36
+* Added XM-8
+* Added Sten Mark. II
+* Added SCAR
+* Added AN94
+
+## June 3rd 2022
+
+* Added Jack-o'-Lantern
+* Added Charger-7
+
+## June 1st 2022
+
+* Added MG3
+
+## May 26th 2022
+
+* Added Python Desperado
