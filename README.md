@@ -5,7 +5,7 @@ This plugin is for Sven Experience server - and it is scripted from AngelScript,
 
 JackThunder67 (Also known as Nathan Downtown), I have agreed that we are starting over with something brand new! This project started in Late May of 2022 and the first part of it wasn't released! In the future, we'll make sure to discover more and more weapons and we'll give you some videos on how it'll work!
 
-Since RuneShop wasn't there anymore - this is the *ENHANCED* version but different name and more fun navigation! This shop plugin is only for Sven Experience server, and nothing else!
+Since RuneShop wasn't there anymore - this is the **ENHANCED** version but different name and more fun navigation! This shop plugin is only for Sven Experience server, and nothing else!
 
 # **Please note: Some weapons in this plugin will be Half-Life 2 and most of it will be Counter Strike Online (Counter Strike Nexon Studios). This repository will change overtime!**
 
