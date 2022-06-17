@@ -31,7 +31,7 @@ Since RuneShop wasn't there anymore, this shop plugin is only for Sven Experienc
 
 #### Shotguns
 
-* M-1887 (weapon_m1887) # From JackThunder67
+* Winchester Model 1887 (weapon_m1887) # From JackThunder67
 * Balista (weapon_spsg) # From JackThunder67
 * Quad-barreled shotgun (weapon_qbarrel) # From Morgan Dean - as Ner0 made it first, I created one myself!
 * Lightning SG-1 (weapon_rainbowgun) # From Morgan Dean
@@ -91,7 +91,7 @@ Since RuneShop wasn't there anymore, this shop plugin is only for Sven Experienc
 * Some weapons has broken textures
 * We are planning on adding new weapons
 
-## Credits
+# Credits
 
 * JackThunder67 (The creator of JT67MOD)
 * Morgan Dean (The lead developer of JT67MOD)
