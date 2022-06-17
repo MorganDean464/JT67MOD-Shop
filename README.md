@@ -112,12 +112,16 @@ Since RuneShop wasn't there anymore, this shop plugin is only for Sven Experienc
 
 # UPDATES
 
+## June 16th 2022
+
+* Fixed a bug where the Quad-barreled shotgun reloads when you have 2 shells. However, some issues on this is continuing.
+
 ## June 15th 2022
 
 * Almost all of the weapon firing sounds (inc. Admin crowbar) has a different pitch when firing.
 * Added an secondary attack on the Quad-barreled shotgun (BETA)
  * For some reason, it reloads when you have 2 shells
- * When you used the secondary attack after firing one shell, it wastes 5 shells.
+ * When you used the secondary attack after firing 1, 2, and 3 shells, it wastes 5, 6, and 7 shells.
  * Magazine counter disappears when you use the secondary attack if you have 3 shells left.
 * Fixed the deploy time on Daewoo K1A
 
