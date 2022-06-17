@@ -112,6 +112,10 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 # UPDATES
 
+## June 17th 2022
+
+* Added Dread Nova - but it has some issues.
+
 ## June 16th 2022
 
 * Fixed a bug where the Quad-barreled shotgun reloads when you have 2 shells. However, some issues on this is continuing.
