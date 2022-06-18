@@ -114,7 +114,7 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 ## June 17th 2022
 
-* Added Dread Nova - but it has some issues.
+* ~~Added Dread Nova~~ CUT WEAPON!
 
 ## June 16th 2022
 
@@ -185,3 +185,11 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 ## May 26th 2022
 
 * Added Python Desperado
+
+# Cut weapons
+
+**Weapons that were not working properly - or isn't suitable for scripting**
+
+* Crow-1
+* Dread Nova
+* Coil gun
