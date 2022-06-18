@@ -193,3 +193,5 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 * Crow-1
 * Dread Nova
 * Coil gun
+* Automag-V
+* AW50F
