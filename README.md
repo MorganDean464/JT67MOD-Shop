@@ -114,6 +114,12 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 ## June 17th 2022
 
+* Added Jack Frost's revenge (weapon_magicknife)
+* Sprite issue.
+* Hitwall sound effect is missing.
+
+## June 17th 2022
+
 * ~~Added Dread Nova~~ CUT WEAPON!
 
 ## June 16th 2022
