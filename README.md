@@ -112,7 +112,7 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 # UPDATES
 
-## June 17th 2022
+## June 19th 2022
 
 * Added Jack Frost's revenge (weapon_magicknife)
 * Sprite issue.
