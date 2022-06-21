@@ -102,6 +102,8 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 * Taylor Martin Baker (The junior developer of JT67MOD)
 * Peter (The junior developer of JT67MOD)
 * Mark B. (The quality assurance of JT67MOD)
+* Solokiller (For making the buy menu plugin)
+* KernCore91 (For scripting one integration for the plugin)
 * CSO weapons from Nexon
 * Half-Life 2 weapons from Valve
 
