@@ -81,6 +81,7 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 * K3 (weapon_k3) # From the Sven Community
 * Turbulent-7 (weapon_turbulent7) # From the Sven Community
 * MG3 (weapon_mg3) # From Morgan Dean
+* M134 Minigun (weapon_m134) # From Morgan Dean and JackThunder67
 
 ### And finally, equipment!
 
@@ -112,9 +113,14 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 # UPDATES
 
+## June 21th 2022
+
+* Added M134 Minigun **(BETA)**
+* Removed Jack Frost's Revenge!
+
 ## June 19th 2022
 
-* Added Jack Frost's revenge (weapon_magicknife)
+* Added Jack Frost's Revenge (weapon_magicknife)
 * Sprite issue.
 * Hitwall sound effect is missing.
 
