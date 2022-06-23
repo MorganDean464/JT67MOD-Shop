@@ -118,7 +118,7 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 # UPDATES
 
 ## June 23rd 2022
-**HEEEE-HO!!** After a few months of waiting, it is here! You can get one of these for $1,000 (1,000 frags/scores). This is the celebration of this being released: https://shopatlus.com/products/jack-frost-plushie
+**HEEEE-HO!!** After a few months of waiting, it is here! You can get one of these for $1,000 (1,000 frags/scores). This is the celebration of this came in: https://shopatlus.com/products/jack-frost-plushie
 * Added Jack Frost's HEE-HO Sword
 * Removed M134 Minigun because it's in the coding phase.
 
