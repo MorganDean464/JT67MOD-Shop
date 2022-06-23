@@ -14,8 +14,10 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 
 #### Melees
 
-* Pila (weapon_pila) # From the Sven Community
+* ~~Pila (weapon_pila) # From the Sven Community~~
 * Sledgehammer (weapon_hammer) # From the Sven Community
+* Jack Frost's HEE-HO Sword (weapon_frostblade) # From Morgan Dean and JackThunder67
+
 
 #### Pistols
 
@@ -114,6 +116,11 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 * Manipulate the developers to give you the download link.
 
 # UPDATES
+
+## June 23rd 2022
+**HEEEE-HO!!** After a few months of waiting, it is here! You can get one of these for $1,000 (1,000 frags/scores)
+* Added Jack Frost's HEE-HO Sword
+* Removed M134 Minigun because it's in the coding phase.
 
 ## June 21th 2022
 
