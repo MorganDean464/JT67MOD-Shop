@@ -7,7 +7,7 @@ JackThunder67 (Also known as Nathan Downtown), I have agreed that we are startin
 
 Since RuneShop wasn't there anymore - this is the **ENHANCED** version but different name and more fun navigation! This shop plugin is only for Sven Experience server, and nothing else!
 
-# **Please note: Some weapons in this plugin will be Half-Life 2 and most of it will be Counter Strike Online (Counter Strike Nexon Studios). This repository will change overtime!**
+# **Please note: Weapons in this plugin will be random - some servers has less weapons for less time from downloading resources. This repository will change overtime!**
 
 ## Weapons
 
