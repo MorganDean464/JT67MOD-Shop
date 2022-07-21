@@ -1,4 +1,4 @@
-# This work is in maintenance for a little while, come back later. And KernCore91, go fuck yourself.
+# This work is in maintenance for a little while, come back later.
 
 # JT67MOD's Shop
 # BANNER IS COMING SOON!
@@ -221,3 +221,4 @@ Any updates from this point won't be done until.... Ehhhh... We're in maintenanc
 * Coil gun
 * Automag-V
 * AW50F
+* M2
