@@ -1,3 +1,5 @@
+# This work is in maintenance for a little while, come back later. And KernCore91, go fuck yourself.
+
 # JT67MOD's Shop
 # BANNER IS COMING SOON!
 > Custom weapons project for Sven Co-op
@@ -118,7 +120,7 @@ Since RuneShop wasn't there anymore - this is the **ENHANCED** version but diffe
 # UPDATES
 
 ## June 29th and beyond...
-Any updates from this point won't be done until July 10th. We're in maintenance.
+Any updates from this point won't be done until.... Ehhhh... We're in maintenance.
 
 ## June 23rd 2022
 **HEEEE-HO!!** After a few months of waiting, it is here! You can get one of these for $1,000 (1,000 frags/scores). This is the celebration of this came in: https://shopatlus.com/products/jack-frost-plushie
