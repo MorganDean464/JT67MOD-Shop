@@ -1,9 +1,5 @@
 # This work is in maintenance for a little while, come back later.
 
-### Message to KernCore91
-
-Allow me to explain you this. I have been mistreated completely because of your bullshit stuff you're doing, it's worse that you banned me from 2 of my accounts already. One of them is my main - one of them is my client account.
-
 Furthermore, you are not going to be like this to me again, otherwise you are not a good person as I'll leave you messages for your repository. You're a fucking asshole - and trust me I won't release your shitty "stuff"
 
 # JT67MOD's Shop
