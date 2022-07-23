@@ -1,7 +1,5 @@
 # This work is in maintenance for a little while, come back later.
 
-Furthermore, you are not going to be like this to me again, otherwise you are not a good person as I'll leave you messages for your repository. You're a fucking asshole - and trust me I won't release your shitty "stuff"
-
 # JT67MOD's Shop
 # BANNER IS COMING SOON!
 > Custom weapons project for Sven Co-op
